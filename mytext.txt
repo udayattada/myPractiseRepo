@@ -1,0 +1,12 @@
+this is java text 
+
+5a8d3acc5bc04387bf0dae5426f3893c
+
+git config --global user.email "udayattada93@gmail.com"
+
+git config --global user.name "udayattada"
+
+
+udayattada
+
+udayattada93@gmail.com
